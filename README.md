@@ -29,8 +29,8 @@ Socket 服务端会把调试图保存到 `Workspace/Socket/debug/`：
 当前调试图如下：
 
 <p align="center">
-  <img src="Socket/debug/vision_vis.png" width="420">
-  <img src="Socket/debug/vision_th.png" width="420">
+  <img src="Socket/debug/vision_vis.png" width="390">
+  <img src="Socket/debug/vision_th.png" width="390">
 </p>
 
 
