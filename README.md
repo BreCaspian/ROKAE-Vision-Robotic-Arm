@@ -28,10 +28,10 @@ Socket 服务端会把调试图保存到 `Workspace/Socket/debug/`：
 
 当前调试图如下：
 
-<div style="display:flex; justify-content:center; gap:0;">
-  <img src="Socket/debug/vision_vis.png" width="420" />
-  <img src="Socket/debug/vision_th.png" width="420" />
-</div>
+<p align="center">
+  <img src="Socket/debug/vision_vis.png" width="420">
+  <img src="Socket/debug/vision_th.png" width="420">
+</p>
 
 
 ## 注意事项
