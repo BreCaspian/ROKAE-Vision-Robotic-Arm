@@ -2,12 +2,6 @@
 
 工作区包含相机控制、视觉检测与 Socket 服务端，用于跟踪圆形工件并把偏差发送给机械臂，实现机械臂对目标实时跟随定位。
 
-<video
-  src="https://github.com/BreCaspian/ROKAE-Vision-Robotic-Arm/releases/download/2026.01.13/ROKAE.mp4"
-  controls
-  width="650">
-</video>
-
 ## 概述
 
 - `CameraControl/`  
@@ -34,9 +28,9 @@ Socket 服务端会把调试图保存到 `Workspace/Socket/debug/`：
 
 当前调试图如下：
 
-<div style="display:flex; gap:0; align-items:flex-start;">
-  <img src="Socket/debug/vision_vis.png" width="420" style="display:block;" />
-  <img src="Socket/debug/vision_th.png" width="420" style="display:block;" />
+<div style="display:flex; justify-content:center; gap:0;">
+  <img src="Socket/debug/vision_vis.png" width="420" />
+  <img src="Socket/debug/vision_th.png" width="420" />
 </div>
 
 
