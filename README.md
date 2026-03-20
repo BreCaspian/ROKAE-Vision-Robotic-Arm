@@ -2,6 +2,12 @@
 
 工作区包含相机控制、视觉检测与 Socket 服务端，用于跟踪圆形工件并把偏差发送给机械臂，实现机械臂对目标实时跟随定位。
 
+<p align="center">
+  <img src="docs/ROKAE.jpg" width="380" alt="ROKAE">
+</p>
+
+---
+
 ## 概述
 
 - `CameraControl/`  
